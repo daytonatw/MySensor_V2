@@ -1,0 +1,4 @@
+#Thu May 10 12:09:54 CST 2018
+base.0=C\:\\app\\Ti\\sensortag20\\BleSensorTag\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
